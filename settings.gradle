@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Un'
+rootProject.name='clean-architecture'
